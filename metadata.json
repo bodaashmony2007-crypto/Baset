@@ -1,0 +1,6 @@
+{
+  "name": "Image Enhancer",
+  "description": "AI-powered image enhancement and upscaling app utilizing Gemini analysis and local DSP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
